@@ -1,0 +1,17 @@
+12:35:37,171 DEBUG devpinoyLogger:43 - Browser opened sucessfully
+12:35:38,728 DEBUG devpinoyLogger:44 - login sucessfull
+12:35:39,535 DEBUG devpinoyLogger:50 - selected  Name (Z to A) as filter 
+12:35:39,669 DEBUG devpinoyLogger:55 - item1 added to cart  
+12:35:39,797 DEBUG devpinoyLogger:60 - item2 added to cart  
+12:35:39,927 DEBUG devpinoyLogger:65 - item3 added to cart  
+12:35:40,227 DEBUG devpinoyLogger:80 - menu bar is clicked
+12:35:45,693 DEBUG devpinoyLogger:92 - rest of app done 
+12:35:45,872 DEBUG devpinoyLogger:114 - navigating to menubar
+12:35:51,753 DEBUG devpinoyLogger:120 - menu bar has been opened
+12:35:51,970 DEBUG devpinoyLogger:126 - Clicked on log-out button
+12:35:52,131 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:35:52,147 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:35:52,154 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:35:52,167 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:35:52,169 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/CHISRI/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:35:58,208 DEBUG devpinoyLogger:50 - Browser closed
